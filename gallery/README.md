@@ -4,6 +4,7 @@
 - cavity-ramp: Highlights that the spectral element mesh has big elements
 - cylinder-flow: Obstacle with a wake region
 - embedded-boundaries: Internal boundaries aligned
+- multiple-boundaries: Five internal boundaries with curves taken from "organic" example of https://github.com/FluidNumerics/svg-to-HOHQMesh
 - naca0012: Standard airfoil and mesh is nearly symmetric
 - naca6412: Another airfoil with an 11 degree angle of attack. Original data taken from https://github.com/cfsengineering/GMSH-Airfoil-2D
 - three-element-30p30n: Three element airfoil with many sharp features to capture. I got the data from this site http://www.ae.metu.edu.tr/tuncer/ae546/multi/ but there are many AIAA papers that use this geometry
